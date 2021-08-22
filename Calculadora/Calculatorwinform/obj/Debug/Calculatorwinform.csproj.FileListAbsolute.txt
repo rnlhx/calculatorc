@@ -1,0 +1,10 @@
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\bin\Debug\Calculatorwinform.exe.config
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\bin\Debug\Calculatorwinform.exe
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\bin\Debug\Calculatorwinform.pdb
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.Form1.resources
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.Properties.Resources.resources
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.csproj.GenerateResource.cache
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.exe
+C:\Users\renan\source\repos\Calculatorwinform\Calculatorwinform\obj\Debug\Calculatorwinform.pdb
